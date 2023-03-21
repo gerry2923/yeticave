@@ -1,7 +1,7 @@
-# Личный проект «{{projectTitle}}»
+# Личный проект «Yeticave»
 
-* Студент: [{{userName}}]({{userProfile}}).
-* Наставник: `Неизвестно`.
+* Студент: [MON](selfeducated).
+* Наставник: `by myself`.
 
 ---
 
