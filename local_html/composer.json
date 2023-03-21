@@ -1,0 +1,17 @@
+{
+    "name": "yeticave/local_html",
+    "description": "Test website for php_level_1 training.",
+    "type": "project",
+    "license": "y",
+    "authors": [
+        {
+            "name": "MON"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "symfony/mailer": "6.3.x-dev",
+        "wixel/gump": "v2.x-dev",
+        "imagine/imagine": "^1.0@dev"
+    }
+}
